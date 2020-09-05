@@ -1,0 +1,5 @@
+I highly recommend not deleting or modifying anything in the "default" folder. If an image or sound fails to load from a modded folder, it will fall back to the resource in "default". Missing files won't break the game, but it will look very strange.
+
+Setting the sound file value of a garfielf voice string to a value less than 0 will cause nothing to play. Useful if your mod doesn't have voice lines.
+
+All filenames must be exactly the same in order for the game to load them. The one exception is the text xml file, whose filename can be defined by the user (though it must start with the text_ prefix, and end in .xml)

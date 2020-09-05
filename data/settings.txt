@@ -1,0 +1,4 @@
+lang=enUs
+money_for_lose=10
+data=default
+voice=true

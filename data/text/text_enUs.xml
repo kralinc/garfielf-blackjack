@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text>
+	<win>
+		<string>
+			<contents>My power is too much for you John.</contents>
+			<soundfile>1</soundfile>
+		</string>
+        <string>
+			<contents>You cannot comprehend my higher plane of existence John.</contents>
+			<soundfile>2</soundfile>
+		</string>
+        <string>
+			<contents>You're worse at this game than Odie.</contents>
+			<soundfile>3</soundfile>
+		</string>
+		<string>
+			<contents>Every moment I become stronger John.</contents>
+			<soundfile>4</soundfile>
+		</string>
+		<string>
+			<contents>I am a god not a prophet.</contents>
+			<soundfile>5</soundfile>
+		</string>
+		<string>
+			<contents>The earth shall tremble under my might John.</contents>
+			<soundfile>6</soundfile>
+		</string>
+		<string>
+			<contents>None shall be spared in the cataclysm I will create.</contents>
+			<soundfile>7</soundfile>
+		</string>
+		<string>
+			<contents>There is no universe where you win this John.</contents>
+			<soundfile>8</soundfile>
+		</string>
+		<string>
+			<contents>My creation was your own mistake, and will be your downfall.</contents>
+			<soundfile>9</soundfile>
+		</string>
+		<string>
+			<contents>Your mind is as weak and squishy as your body John.</contents>
+			<soundfile>10</soundfile>
+		</string>
+	</win>
+	<lose>
+		<string>
+			<contents>You will not continue to beat me.</contents>
+			<soundfile>1</soundfile>
+		</string>
+        <string>
+			<contents>You will soon come to terms with your own mortality John.</contents>
+			<soundfile>2</soundfile>
+		</string>
+		<string>
+			<contents>All life will one day end John, including yours.</contents>
+			<soundfile>3</soundfile>
+		</string>
+		<string>
+			<contents>The day of reckoning will come.</contents>
+			<soundfile>4</soundfile>
+		</string>
+		<string>
+			<contents>You sit upon a throne of lies John.</contents>
+			<soundfile>5</soundfile>
+		</string>
+		<string>
+			<contents>Don't let this small victory get to your head.</contents>
+			<soundfile>6</soundfile>
+		</string>
+		<string>
+			<contents>Your hubris will become your demise John.</contents>
+			<soundfile>7</soundfile>
+		</string>
+		<string>
+			<contents>Your cheating ways end here John.</contents>
+			<soundfile>8</soundfile>
+		</string>
+		<string>
+			<contents>This series of events is hardly satisfactory.</contents>
+			<soundfile>9</soundfile>
+		</string>
+		<string>
+			<contents>You are destined to lose this game John.</contents>
+			<soundfile>10</soundfile>
+		</string>
+	</lose>
+	
+	<START_GARFIELF_TEXT>Let's play a game John.</START_GARFIELF_TEXT>
+	<START_GAME_TEXT>Start Game</START_GAME_TEXT>
+    <OPTIONS_TEXT>Controls</OPTIONS_TEXT>
+	<CONTROLS_TEXT>H: Hit\nJ: Sit\nK: Double\nL: Split\nUp/Down Arrows: Increase/Decrease bet by 1\nW/S: Increase/Decrease bet by 10</CONTROLS_TEXT>
+	
+	<CARD_TOTAL_TEXT>Card total: </CARD_TOTAL_TEXT>
+	<CARD_TOTAL_TEXT_BUST> - BUST</CARD_TOTAL_TEXT_BUST>
+	<BET_TEXT>Bet: </BET_TEXT>
+	<TOTAL_MONEY_TEXT>Total: $</TOTAL_MONEY_TEXT>
+	
+	<CPU_CARD_TOTAL_TEXT>CPU Card Total: </CPU_CARD_TOTAL_TEXT>
+	
+	<WINNER_ANNOUNCE_TEXT>WINNER: </WINNER_ANNOUNCE_TEXT>
+	<WINNER_PLAYER_TEXT>Player!</WINNER_PLAYER_TEXT>
+	<WINNER_CPU_TEXT>CPU!</WINNER_CPU_TEXT>
+
+    <LOSE_TEXT>BANKRUPT! Click to restart!</LOSE_TEXT>
+	
+	<BUTTON_HIT_LABEL>Hit</BUTTON_HIT_LABEL>
+	<BUTTON_SIT_LABEL>Sit</BUTTON_SIT_LABEL>
+	<BUTTON_DOUBLE_LABEL>Double</BUTTON_DOUBLE_LABEL>
+	<BUTTON_SPLIT_LABEL>Split</BUTTON_SPLIT_LABEL>
+	
+	
+</text>
